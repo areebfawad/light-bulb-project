@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;background-color: black;
+}
+
+h1.title {
+    text-transform: uppercase;
+    margin-bottom: 10%;
+}
+
+.container {
+    color: #fff ;
+    margin: 0 auto;
+    text-align: center;
+}
